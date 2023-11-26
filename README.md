@@ -1,8 +1,9 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reset-Sheep&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-activity-graph.cyclic.app/graph?username=Reset-Sheep&theme=dracula)
+![Visitor Count](https://profile-counter.glitch.me/Reset-Sheep/count.svg)
 
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reset-Sheep&show_icons=true&theme=tokyonight)
 <!--
 **Reset-Sheep/Reset-Sheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
