@@ -1,14 +1,12 @@
 ### Hi there 👋
 What can I do? under:
-- 🔭 In comparison, Vue3 is easier to use. If you know Vue3, of course you can also use Vue2 and TypeScript!
-- 🌱 Since you are a front-end developer, of course HTML, CSS, and JavaScript are at your fingertips!
-- 👯 For CSS, I know Less; for JavaScript, I know Jquery!
-- 🤔 Then responsive Bootstrap and lib-flexible are also must-haves!
-- 💬 If you know Vue, how can Uniapp not know it! What other packaging tools are there - Webpack!
-- 📫 For software engineering students, back-end skills are also mastered, such as the Express framework of Node.js!
-- 😄 The same is true for the database MySQL, and it is definitely necessary to use Navicat!
-- ⚡ The last thing I learned a little bit about is Java, Python and Dart!
-
+- 🔭 精通 Vue 2/3 和 Nuxt 3，能够使用各种UI框架。
+- 🌱 熟悉 Webpack 和 Vite。
+- 👯 熟悉JavaScript / TypeScript。
+- 🤔 具备 ECharts 数据可视化和 Uniapp 小程序跨平台开发经验。
+- 💬 熟练掌握 HTTP 协议及 WebSocket 协议。
+- 📫 精通技术架构设计，开发之前先写技术文档。
+- 😄 精通 Node.js 和 Express，擅长构建高效 Web 服务与 RESTful API。
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reset-Sheep&layout=compact&theme=tokyonight)
 
