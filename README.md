@@ -8,11 +8,9 @@ What can I do? under:
 - 📫 精通技术架构设计，开发之前先写技术文档。
 - 😄 精通 Node.js 和 Express，擅长构建高效 Web 服务与 RESTful API。
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reset-Sheep&layout=compact&theme=tokyonight)
 
-<!--
 **Reset-Sheep/Reset-Sheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
--->
+
